@@ -330,6 +330,7 @@ Daily Challenges
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -408,5 +409,6 @@ Daily Challenges
 ## Linked List
 |  |
 | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
