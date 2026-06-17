@@ -149,6 +149,7 @@ Daily Challenges
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Recursion
 |  |
@@ -169,6 +170,7 @@ Daily Challenges
 | [2751-robot-collisions](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
