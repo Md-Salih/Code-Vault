@@ -37,6 +37,7 @@ Daily Challenges
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -351,6 +352,7 @@ Daily Challenges
 | [1622-fancy-sequence](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -497,6 +499,7 @@ Daily Challenges
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
