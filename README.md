@@ -101,6 +101,7 @@ Daily Challenges
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -155,6 +156,7 @@ Daily Challenges
 | [0012-integer-to-roman](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0657-robot-return-to-origin](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -447,6 +449,7 @@ Daily Challenges
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 ## Divide and Conquer
@@ -546,4 +549,8 @@ Daily Challenges
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
