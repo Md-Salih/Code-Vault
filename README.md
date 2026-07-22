@@ -75,6 +75,7 @@ Daily Challenges
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -180,6 +181,7 @@ Daily Challenges
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -314,6 +316,7 @@ Daily Challenges
 | [3312-sorted-gcd-pair-queries](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -396,6 +399,7 @@ Daily Challenges
 | ------- |
 | [1622-fancy-sequence](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [3161-block-placement-queries](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
