@@ -124,6 +124,7 @@ Daily Challenges
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -192,6 +193,7 @@ Daily Challenges
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -246,6 +248,7 @@ Daily Challenges
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -481,6 +484,7 @@ Daily Challenges
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
