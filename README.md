@@ -27,6 +27,7 @@ Daily Challenges
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1563-stone-game-v](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -251,6 +252,7 @@ Daily Challenges
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1406-stone-game-iii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -412,6 +414,7 @@ Daily Challenges
 | [1344-angle-between-hands-of-a-clock](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -652,6 +655,7 @@ Daily Challenges
 | [1140-stone-game-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
