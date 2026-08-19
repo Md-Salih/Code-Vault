@@ -22,6 +22,7 @@ Daily Challenges
 | [1306-jump-game-iii](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1406-stone-game-iii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -120,6 +121,7 @@ Daily Challenges
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -289,6 +291,7 @@ Daily Challenges
 | [1331-rank-transform-of-an-array](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -348,6 +351,7 @@ Daily Challenges
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
