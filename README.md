@@ -222,6 +222,7 @@ Daily Challenges
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Recursion
@@ -539,6 +540,7 @@ Daily Challenges
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -550,6 +552,7 @@ Daily Challenges
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String Matching
 |  |
