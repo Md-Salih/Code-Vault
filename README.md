@@ -456,6 +456,7 @@ Daily Challenges
 | [0486-predict-the-winner](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -637,6 +638,7 @@ Daily Challenges
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Breadth-First Search
 |  |
