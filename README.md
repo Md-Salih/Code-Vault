@@ -210,6 +210,7 @@ Daily Challenges
 | [0796-rotate-string](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -334,6 +335,7 @@ Daily Challenges
 | ------- |
 | [0012-integer-to-roman](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0874-walking-robot-simulation](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
@@ -375,6 +377,7 @@ Daily Challenges
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -560,6 +563,7 @@ Daily Challenges
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -629,6 +633,7 @@ Daily Challenges
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 ## Divide and Conquer
@@ -676,6 +681,7 @@ Daily Challenges
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
