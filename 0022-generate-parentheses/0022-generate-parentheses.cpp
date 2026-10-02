@@ -1,26 +1,24 @@
-#include <vector>
-#include <string>
-using namespace std;
-
 class Solution {
 public:
     vector<string> generateParenthesis(int n) {
-        vector<string> result;
-        backtrack(result, "", 0, 0, n);
-        return result;
-    }
-    
-    void backtrack(vector<string>& result, string current, int openCount, int closeCount, int n) {
-        if (openCount == n && closeCount == n) {
-            result.push_back(current);
-            return;
-        }
-        
-        if (openCount < n) {
-            backtrack(result, current + "(", openCount + 1, closeCount, n);
-        }
-        if (closeCount < openCount) {
-            backtrack(result, current + ")", openCount, closeCount + 1, n);
-        }
+        if (n-- == 1) return {"()"};
+
+        vector<string> res;
+        auto dfs = [&](auto& self, int O, int C, string s) -> void {
+            if (O == 0 && C == 0) {
+                res.push_back(s + ")");
+                return;
+            }
+
+            if (O > 0)
+                self(self, O - 1, C, s + "(");
+
+            if (C >= O)
+                self(self, O, C - 1, s + ")");
+        };
+
+        dfs(dfs, n, n, "(");
+
+        return res;
     }
 };
