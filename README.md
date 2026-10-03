@@ -210,6 +210,7 @@ Daily Challenges
 | [0012-integer-to-roman](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
@@ -293,6 +294,7 @@ Daily Challenges
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -646,6 +648,7 @@ Daily Challenges
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -819,6 +822,7 @@ Daily Challenges
 | ------- |
 | [0020-valid-parentheses](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
