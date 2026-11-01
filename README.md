@@ -11,6 +11,7 @@ Daily Challenges
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0835-image-overlap) |
@@ -552,6 +553,7 @@ Daily Challenges
 | [0012-integer-to-roman](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
