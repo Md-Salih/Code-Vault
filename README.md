@@ -21,6 +21,7 @@ Daily Challenges
 | [1140-stone-game-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
@@ -207,6 +208,7 @@ Daily Challenges
 | [0835-image-overlap](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -531,6 +533,7 @@ Daily Challenges
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -770,6 +773,7 @@ Daily Challenges
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -792,6 +796,7 @@ Daily Challenges
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -810,6 +815,7 @@ Daily Challenges
 | [0301-remove-invalid-parentheses](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Md-Salih/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Md-Salih/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
